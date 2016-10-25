@@ -9,7 +9,7 @@
 use GuzzleHttp\Client;
 use GuzzleHttp\Pool;
 
-require __DIR__.'/vendor/autoload.php';
+require __DIR__.'/../vendor/autoload.php';
 
 class Request {
     private $totalPageCount;
